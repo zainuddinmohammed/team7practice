@@ -1,7 +1,7 @@
 export default function Page() {
     return (
         <div>
-            <h1>My name is [insert name here]</h1>
+            <h1>My name is Affiq</h1>
         </div>
     );
 }
