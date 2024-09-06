@@ -25,3 +25,9 @@ body {
     text-wrap: balance;
   }
 }
+
+.column {
+  display: flex;
+  flex-wrap: wrap; /* Wrap elements to new rows */
+  gap: 20px; /* Space between items */
+}
